@@ -1,4 +1,4 @@
-package com.example.Lab1HelloAndroid
+package ca.georgebrown3074.kerembas.lab02
 
 import org.junit.Test
 
